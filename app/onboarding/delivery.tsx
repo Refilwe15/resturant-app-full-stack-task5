@@ -75,8 +75,7 @@ const styles = StyleSheet.create({
     width: 300,
     height: 300,
     resizeMode: "contain",
-    marginTop: 80,
-    marginBottom: 60,
+    marginBottom: 30,
   },
 
   title: {
@@ -85,7 +84,7 @@ const styles = StyleSheet.create({
     fontWeight : "800",
     color: "#000",
     textAlign: "center",
-    marginBottom: 10,
+    marginBottom: 20,
   },
 
   subtitle: {
@@ -94,7 +93,7 @@ const styles = StyleSheet.create({
     color: "#777",
     textAlign: "center",
     lineHeight: 18,
-    marginBottom: 30,
+    marginBottom: 10,
   },
 
   arrowWrapper: {

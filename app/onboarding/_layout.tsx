@@ -6,6 +6,7 @@ export default function OnboardingLayout() {
       <Stack.Screen name="index" />
       <Stack.Screen name="delivery" />
       <Stack.Screen name="reviews" />
+      
     </Stack>
   );
 }
